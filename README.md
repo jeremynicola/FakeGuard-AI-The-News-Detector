@@ -16,6 +16,7 @@ Advanced Transformer-based Fake News Detection App with beautiful UI and Lottie 
 4. streamlit run app.py
 
 "Made with ❤️ in NEPAL | Model : DistilBERT Transformers" 
+
 "Developed and  Model Trained by Krishna"
 
 
