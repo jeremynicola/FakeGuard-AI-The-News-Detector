@@ -1,0 +1,8 @@
+streamlit==1.42.0
+streamlit-lottie==0.0.5
+transformers==4.49.0
+torch==2.6.0
+pandas
+numpy
+plotly
+pillow

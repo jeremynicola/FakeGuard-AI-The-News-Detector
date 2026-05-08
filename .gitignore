@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+model/
+venv/
+.env
+.DS_Store
+data/WELFake_Dataset.csv
+model/
+WELFake_Dataset.csv
+data/
